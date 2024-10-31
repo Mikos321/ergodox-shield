@@ -52,7 +52,7 @@
             &kp LSHFT   &kp  Z      &kp   X    &kp    C     &kp     V     &kp  B                                    &kp N  &kp M    &kp COMMA    &kp DOT   &kp FSLH &kp RSHFT
             &kp LCTRL   &kp LALT    &kp LGUI   &kp LT       &kp ESC                                                 &kp DELETE &kp LEFT &kp DOWN     &kp UP    &kp RIGHT 
                                                                           &kp PG_UP  &kp PG_DN            &none     &kp RALT
-                                                            &kp SPACE     &kp ENTER  &none                &none     &kp BSPC &kp SPACE
+                                                            &kp SPACE     &kp ENTER  &none                &none     &kp SPACE &kp BSPC 
                                                                                      &kp RALT             &none
 			>;
         };
